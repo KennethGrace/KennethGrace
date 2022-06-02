@@ -1,6 +1,6 @@
 # On Myself and My Dreams
 
-> While useful, computers are profoundly simple machines, the mind is far more interesting.
+> While useful, computers are profoundly simple machines. The mind is far more interesting.
 
 Welcome to my GitHub! My name is Kenneth Grace and I'm a full stack engineer. Here on my GitHub is a compilation of automation tooling, study projects, and experimental machine learning. My areas of expertise are as follows;
 
