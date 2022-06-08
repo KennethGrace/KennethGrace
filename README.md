@@ -1,4 +1,4 @@
-# On Myself and My Dreams
+# On Myself
 
 > While useful, computers are profoundly simple machines. The mind is far more interesting.
 
