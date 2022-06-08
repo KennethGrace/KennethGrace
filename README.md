@@ -18,6 +18,6 @@ Welcome to my GitHub! My name is Kenneth Grace and I'm a full stack engineer. He
  ---
 My love of programming  and computers started all the way back in elementary school when I taught myself JavaScript in order to make amateur video games. Over the following years, I would learn many languages and frameworks as I experimented with graphics programming. Eventually this focus on video games would bloom into a general love for the inner workings of computers. As a hobbyist I would tinker in operating system, driver, and micro-processor development.
 
-After graduating high-school I received the opportunity for an internship at Dyntek Services Inc, a national technology solutions company. Over the course of only 5 years, I've worked my way into a Senior Project Consultant role. I live and work and a break neck pace and I have no intention of slowing down now.
+After graduating high-school I received the opportunity for an internship at Dyntek Services Inc, a national technology solutions company. Over the course of 5 years, I've moved into a Senior Project Consultant role. I see all my projects through to completion and live for the feeling of accomplishment at the end.
 
 I attended the College of Southern Nevada, the University of Nevada Las Vegas, and Western Governors University for all my classical training in C/C++, Java, Web development, SQL, Kernel development, and project management.
