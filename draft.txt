@@ -1,0 +1,16 @@
+# THIS IS INTENTIONALLY UPLOADED.
+# IN CASE YOU WANT TO READ IT, YOU CAN.
+# IT MAY NEVER MAKE IT TO THE MAIN SITE.
+# INFORMATION MAY BE OUT OF DATE.
+
+## My History
+
+I'm also a big fan of video games and I've been known to dabble in game development from time to time.
+
+I've been programming for over 10 years and I've been working in the IT industry for over 5 years.
+
+My love of programming and computers started all the way back in elementary school when I taught myself JavaScript in order to make amateur video games. Over the following years, I would learn many languages and frameworks as I experimented with graphics programming. Eventually this focus on video games would bloom into a general love for the inner workings of computers. As a hobbyist I would tinker in operating system, driver, and micro-processor development.
+
+After graduating high-school I received the opportunity for an internship at Dyntek Services Inc, a national technology solutions company. Over the course of only 5 years, I've worked my way into a Senior Project Consultant role. I live and work and a break neck pace and I have no intention of slowing down now.
+
+I attended the College of Southern Nevada, the University of Nevada Las Vegas, and Western Governors University for all my classical training in C/C++, Java, Web development, SQL, Kernel development, and project management.
